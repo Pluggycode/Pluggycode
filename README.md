@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashidhar</h1>
 <h3 align="center">A full stack, frontend developer from Karnataka.</h3>
 
-<p align="left"> <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="pluggycode" /> </p>
+<p align="left"> <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="pluggycode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="pluggycode" /></a> </p>
 
