@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="pluggycode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="pluggycode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="pluggycode" /></a> </p>
 
 - 🔭 I’m currently working on [ai-course generator](https://magnaai.vercel.app)
 
